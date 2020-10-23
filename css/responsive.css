@@ -1,0 +1,242 @@
+/*#######    992px Width Device   #######*/
+@media screen and (max-width: 992px) {
+    .servicesText {
+        padding: 5px 165px;
+    }
+
+    .form .formContant {
+        padding: 0 80px;
+    }
+
+    .services .servicesHead h4 {
+        font-size: 20px;
+    }
+
+    .services .servicesHead p {
+        font-size: 15px;
+    }
+
+    .contactForm {
+        width: 65%;
+    }
+}
+
+/*#######    768px Width Device   #######*/
+
+@media screen and (max-width: 768px) {
+
+    .imgMe {
+        margin: auto;
+    }
+
+    .imgMe img {
+        margin-top: -20px;
+        margin-left: 0;
+    }
+
+    .smCenter {
+        border-bottom: 2px solid #eae4e4;
+    }
+
+    .servicesText {
+        padding: 5px 50px;
+    }
+
+    .services .servicesHead h4 {
+        font-size: 14px;
+    }
+
+    .services .servicesHead p {
+        font-size: 15px;
+    }
+
+    .btn.bg-warning.text-uppercase.font-weight-bold.text-light {
+        padding: 15px 195px;
+    }
+
+    .icon i {
+        font-size: 30px;
+        height: 50px;
+        width: 50px;
+        padding-top: 10px;
+    }
+
+
+}
+
+
+/*#######    576px Width Device   #######*/
+
+@media screen and (max-width: 576px) {
+    .headName {
+        font-size: 40px;
+    }
+
+    .headDes {
+        font-size: 17px;
+    }
+
+    ul li {
+        padding: 9px;
+    }
+
+    #aboutMe .txt .mySelf {
+        font-size: 15px;
+    }
+
+    .prolie h4 {
+        font-size: 20px;
+    }
+
+    .prolie h5 {
+        font-size: 18px;
+    }
+
+    .servicesText {
+        padding: 5px 0px;
+        font-size: 14px;
+    }
+
+    .btn.bg-warning.text-uppercase.font-weight-bold.text-light {
+        padding: 15px 223px;
+    }
+
+    .form {
+        padding-bottom: 65px;
+    }
+
+    .contactForm {
+        width: 100%;
+    }
+
+    .form .formContant {
+        padding: 0 0;
+        font-size: 15px;
+    }
+
+    .form h5 {
+        font-size: 22px;
+    }
+
+    .form p {
+        font-size: 20px;
+    }
+}
+
+
+/*#######    480px Width Device   #######*/
+
+@media screen and (max-width: 480px) {
+    .headName {
+        font-size: 35px;
+    }
+
+    .headDes {
+        font-size: 15px;
+    }
+
+    ul {
+        margin: auto;
+    }
+
+    ul li {
+        padding: 5px;
+    }
+
+    ul li:hover {
+        font-size: 16px;
+    }
+
+    #aboutMe .abCon h1 {
+        font-size: 35px;
+    }
+
+    .imgMe img {
+        margin-top: -20px;
+    }
+
+    #aboutMe .txt .mySelf {
+        padding: 0 10px;
+    }
+
+    .smCenter {
+        text-align: center;
+    }
+
+    .prolie h4 {
+        font-size: 25px;
+    }
+
+    .prolie h5 {
+        font-size: 23px;
+    }
+
+    .smMargin {
+        margin-top: 30px;
+    }
+
+    .servicesText {
+        padding: 5px 25px;
+    }
+
+    .icon {
+        margin-top: 15px;
+    }
+
+    .formRow {
+        margin-right: 0;
+    }
+
+    .btn.bg-warning.text-uppercase.font-weight-bold.text-light {
+        padding: 15px 195px;
+    }
+}
+
+
+/*#######    360px Width Device   #######*/
+
+
+@media screen and (max-width: 360px) {
+
+    .headName {
+        font-size: 25px;
+    }
+
+    .headDes {
+        font-size: 13px;
+    }
+
+    ul {
+        margin-left: -40px;
+    }
+
+    #aboutMe .abCon h1 {
+        font-size: 28px;
+    }
+
+    .download .cv {
+        margin-left: -20px;
+    }
+
+    .services h2 {
+        font-size: 28px;
+    }
+
+    .form .formRow {
+        margin-left: 0;
+    }
+
+    .form .formRow h2 {
+        font-size: 24px;
+    }
+
+    .form .formRow p {
+        font-size: 13px;
+    }
+
+    .btn.bg-warning.text-uppercase.font-weight-bold.text-light {
+        padding: 15px 135px;
+    }
+
+
+}
