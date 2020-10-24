@@ -208,7 +208,7 @@
     }
 
     .smFont {
-        font-size: 13px;
+        font-size: 12px;
     }
 
     #top .social ul {
@@ -256,5 +256,5 @@
     .smDevIcon {
         margin-top: 10px;
     }
-
+ 
 }
