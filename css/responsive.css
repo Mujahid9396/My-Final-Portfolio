@@ -210,6 +210,14 @@
         margin-left: -40px;
     }
 
+    .smFont {
+        font-size: 15px;
+    }
+
+    #top .social ul {
+        margin-top: 40px;
+    }
+
     #aboutMe .abCon h1 {
         font-size: 28px;
     }
@@ -238,5 +246,10 @@
         padding: 15px 135px;
     }
 
+
+    .copyRight h6 {
+        font-size: 18px;
+        letter-spacing: 0.6px;
+    }
 
 }
