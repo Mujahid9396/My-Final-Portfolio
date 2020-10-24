@@ -118,9 +118,6 @@
         font-size: 22px;
     }
 
-    .form p {
-        font-size: 20px;
-    }
 }
 
 
@@ -211,7 +208,7 @@
     }
 
     .smFont {
-        font-size: 15px;
+        font-size: 13px;
     }
 
     #top .social ul {
@@ -224,6 +221,10 @@
 
     .download .cv {
         margin-left: -20px;
+    }
+    
+    .serviceSmDev {
+        margin-top: 12px;
     }
 
     .services h2 {
@@ -250,6 +251,10 @@
     .copyRight h6 {
         font-size: 18px;
         letter-spacing: 0.6px;
+    }
+    
+    .smDevIcon {
+        margin-top: 10px;
     }
 
 }
